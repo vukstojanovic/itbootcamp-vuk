@@ -1,0 +1,55 @@
+body {
+    background-color: #847316;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+h1 {
+    color: #750E04;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    color: purple;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    border-style: dashed;
+    border-width: 2px;
+}
+
+a {
+    color: orange;
+}
+
+.c_poravnanje {
+    text-align: center;
+}
+
+.d_poravnanje {
+    text-align: right;
+    font-size: 24px;
+}
+
+.treci_naslov {
+    text-align: center;
+    color: green;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: yellow;
+}
+
+
+
+

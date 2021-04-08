@@ -1,0 +1,33 @@
+
+body {
+    background-color: yellow;
+}
+
+.naslov {
+    text-align: center;
+    color: purple;
+}
+
+img {
+    border-style: double;
+    border-width: 5px; /* proizvoljna debljina */
+    border-color: red;
+}
+
+.type1 {
+    color: teal;
+    font-size: 25px;
+    font-family: Arial;
+}
+
+#type2 {
+    color: orangered;
+}
+
+#type2 a {
+    color: red;
+}
+
+#type2 a:hover {
+    color: green;
+}
